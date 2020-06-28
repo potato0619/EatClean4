@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="53dp"
             android:gravity="center"
-            android:text="ITDictionary"
+            android:text="EAT CLEAN"
             android:textColor="#000000"
             android:textSize="29dp"
             android:textStyle="bold" />
